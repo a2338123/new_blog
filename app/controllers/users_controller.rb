@@ -8,6 +8,7 @@ class UsersController < ApplicationController
 
 	def show 
 		@user = User.find(params[:id])
+		@microposts = @user.microposts.paginate(page: params[:page])
 	end
 
 	def create
@@ -53,15 +54,6 @@ class UsersController < ApplicationController
 		end
 
 		# 前置过滤器
-
-		# 确保用户已登录
-		def logged_in_user
-			unless logged_in?
-				store_location
-				flash[:danger] = "Please log in."
-				redirect_to login_url
-			end
-		end
 
     # 确保是正确的用户
 		def correct_user
