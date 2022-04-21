@@ -1,0 +1,77 @@
+[33mcommit 040755b812107ddb8d013997c050639ee9048510[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Fri Apr 15 21:49:33 2022 +0800
+
+    Add password reset
+
+[33mcommit fd6b7a17c74b8ed64c637a47b65efa46b1960f26[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Fri Apr 15 19:37:55 2022 +0800
+
+    Add account activation
+
+[33mcommit b82262b374bd2749419707c507da737ccca1b21b[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Wed Apr 13 18:35:23 2022 +0800
+
+    Finish user edit, update, index, and destroy actions
+
+[33mcommit 6fbe289358c3e826f730b6b009219ab3f61e396a[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Mon Apr 11 18:55:42 2022 +0800
+
+    Implement advanced login
+
+[33mcommit 78ad90f891fcc4e2df5b5ba44e1c607a81d0d3b0[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Sun Apr 10 18:57:44 2022 +0800
+
+    Implement basic login
+
+[33mcommit ca7980e675d68a44e6e4eabfc7334d86d21412e2[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Sun Apr 3 22:11:28 2022 +0800
+
+    Finish user signup
+
+[33mcommit 0db391d3fa3241280be1f6ae50b21753145459e7[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Sat Apr 2 20:19:03 2022 +0800
+
+    Make a basic User model(including secure passwords)
+
+[33mcommit 840c80190a96ebe2f49397aff76cee5a1c677ec6[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Fri Apr 1 17:29:18 2022 +0800
+
+    Finish layout and routes
+
+[33mcommit a09bb9e29ac124168dc3865a4f03de61f323e267[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Wed Mar 30 22:38:03 2022 +0800
+
+    20220330 first layout aand routes change
+
+[33mcommit 0a6699d30174ae1f9cfe7807d0ee9305d39d5927[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Mon Mar 28 22:48:38 2022 +0800
+
+    Finish static pages
+
+[33mcommit 0bf3e5b73c9ad1456637946f532ef721d186b58e[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Mon Mar 28 19:23:59 2022 +0800
+
+    Add a Static Pages controller
+
+[33mcommit 89e6a2924b171a75c97765d5cd2c55447ae19fcd[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Mon Mar 28 19:06:44 2022 +0800
+
+    Add hello
+
+[33mcommit f5a69201a09c241adb28abe314889410059ca270[m
+Author: a2338123 <1251647820@qq.com>
+Date:   Mon Mar 28 17:51:14 2022 +0800
+
+    first commit
